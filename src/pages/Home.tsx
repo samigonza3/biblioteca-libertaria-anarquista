@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { BookOpen, Users, Globe, ExternalLink } from 'lucide-react';
 import { books } from '../data/books';
+import { communityItems } from '../data/communityItems';
+import Carousel from '../components/Carousel';
 
 const Home = () => {
   return (
@@ -59,6 +61,11 @@ const Home = () => {
             </tbody>
           </table>
         </div>
+      </div>
+
+      <div className="mb-12">
+        <h2 className="text-2xl font-bold text-red-600 mb-6">Actividades de la Comunidad</h2>
+        <Carousel items={communityItems} />
       </div>
 
       <div className="text-center">
