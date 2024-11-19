@@ -11,13 +11,20 @@ export const books = [
     title: 'El Apoyo Mutuo',
     author: 'Piotr Kropotkin',
     description: 'Un estudio sobre la cooperación y la solidaridad como factores en la evolución.',
-    pdfUrl: 'https://raw.githubusercontent.com/theanarchistlibrary/kropotkin-mutual-aid/master/mutual-aid.pdf'
+    pdfUrl: '/books/Piotr Kropotkin. El apoyo mutuo.pdf'
   },
   {
     id: '3',
     title: 'Dios y el Estado',
     author: 'Mijaíl Bakunin',
     description: 'Una crítica fundamental a la religión y al Estado desde una perspectiva anarquista.',
-    pdfUrl: 'https://raw.githubusercontent.com/theanarchistlibrary/bakunin-god-and-the-state/master/god-and-the-state.pdf'
+    pdfUrl: '/books/Bakunin-Dios_y_el_Estado.pdf'
+  },
+  {
+    id: '4',
+    title: 'La Ciudad Futura',
+    author: 'Antonio Gramsci',
+    description: 'La "Ciudad Futura" de Gramsci refleja su visión de una sociedad transformada, donde la lucha de clases se resuelve con una participación activa del pueblo, promoviendo la igualdad y una reconfiguración del poder.',
+    pdfUrl: '/books/Bakunin-Dios_y_el_Estado.pdf'
   }
 ];
