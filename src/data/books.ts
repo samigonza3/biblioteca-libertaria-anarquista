@@ -4,7 +4,7 @@ export const books = [
     title: 'La Conquista del Pan',
     author: 'Piotr Kropotkin',
     description: 'Una obra fundamental del pensamiento anarquista que explora la organización social y económica en una sociedad libre.',
-    pdfUrl: 'https://raw.githubusercontent.com/theanarchistlibrary/kropotkin-the-conquest-of-bread/master/conquest-of-bread.pdf'
+    pdfUrl: '../books/Kropotkin-La_Conquista_del_pan.pdf'
   },
   {
     id: '2',
