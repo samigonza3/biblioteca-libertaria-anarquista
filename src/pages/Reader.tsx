@@ -39,6 +39,10 @@ const Reader = () => {
           <Viewer
             fileUrl={book.pdfUrl}
             plugins={[defaultLayoutPluginInstance]}
+            defaultScale={1.2}
+            theme={{
+              theme: 'dark',
+            }}
           />
         </Worker>
       </div>
