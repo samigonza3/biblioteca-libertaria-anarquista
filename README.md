@@ -1,3 +1,3 @@
-# biblioteca-libertaria-anarquista
+# AnarcoBiblioteca Libertaria - Cali, Colombia
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/samigonza3/biblioteca-libertaria-anarquista)
+### Desarrollado en React, editado en StackBlitz, refinado con Bolt.
