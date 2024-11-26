@@ -32,6 +32,29 @@ export const books = [
     title: '50 maneras para prepararse para la revolución',
     author: 'Stephanie McMillan',
     description: 'La gente en Estados Unidos está, actualmente, incapacitada para apropiarse un momento revolucionario. Debemos solucionar eso. ¿Cómo podemos incrementar la conciencia revolucionaria, de organización y de lucha?',
-    pdfUrl: '/books/50-maneras-para-prepararse-para-la-revolucion'
+    pdfUrl: '/books/50-maneras-para-prepararse-para-la-revolucion.pdf'
+  },
+  {
+    id: '6',
+    title: 'La Anarquía explicada a los niños',
+    author: 'José Antonio Emmanuel',
+    description: 'Este folleto está escrito para contestar a la pregunta que nos han formulado varios camaradas: ¿Cómo educaré a mis hijos? Pregunta que ya esperábamos y a la que respondemos ateniéndonos a los dictados de la Razón y de la Ciencia.',
+    pdfUrl: '/books/jose-antonio-emmanuel-la-anarquia-explicada-a-los-ninos.pdf'
+  },
+  {
+    id: '7',
+    title: 'Revolución es más que una palabra: 23 tesis sobre el anarquismo',
+    author: 'Gabriel Kuhn',
+    description: 'Colección de ensayos que exploran el anarquismo desde diversas perspectivas. Kuhn presenta 23 tesis que abordan temas como la teoría y la práctica anarquista, la relación entre el anarquismo y otros movimientos sociales, y la importancia de la acción directa y la autogestión.',
+    pdfUrl: '/books/gabriel-kuhn-revolucion-es-mas-que-una-palabra.pdf'
+  },
+  {
+    id: '8',
+    title: 'Cristianismo y Anarquismo',
+    author: 'León Tolstói',
+    description: 'Obra que explora la relación entre los principios cristianos y las ideas anarquistas. Tolstói argumenta que el verdadero cristianismo, basado en el amor y la no violencia, es incompatible con el Estado y sus instituciones coercitivas.',
+    pdfUrl: '/books/leon-tolstoi-cristianismo-y-anarquismo.pdf'
   }
+  
 ];
+
