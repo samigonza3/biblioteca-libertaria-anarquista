@@ -26,5 +26,12 @@ export const books = [
     author: 'Antonio Gramsci',
     description: 'La "Ciudad Futura" de Gramsci refleja su visión de una sociedad transformada, donde la lucha de clases se resuelve con una participación activa del pueblo, promoviendo la igualdad y una reconfiguración del poder.',
     pdfUrl: '/books/Bakunin-Dios_y_el_Estado.pdf'
+  },
+  {
+    id: '5',
+    title: '50 maneras para prepararse para la revolución',
+    author: 'Stephanie McMillan',
+    description: 'La gente en Estados Unidos está, actualmente, incapacitada para apropiarse un momento revolucionario. Debemos solucionar eso. ¿Cómo podemos incrementar la conciencia revolucionaria, de organización y de lucha?',
+    pdfUrl: 'https://es.anarchistlibraries.net/library/50-maneras-para-prepararse-para-la-revolucion.pdf'
   }
 ];
