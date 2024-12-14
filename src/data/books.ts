@@ -54,6 +54,13 @@ export const books = [
     author: 'León Tolstói',
     description: 'Obra que explora la relación entre los principios cristianos y las ideas anarquistas. Tolstói argumenta que el verdadero cristianismo, basado en el amor y la no violencia, es incompatible con el Estado y sus instituciones coercitivas.',
     pdfUrl: '/books/leon-tolstoi-cristianismo-y-anarquismo.pdf'
+  },
+  {
+    id: '9',
+    title: 'Unabomber Manifesto',
+    author: 'Theodore Kaczynski',
+    description: 'El manifiesto del Unabomber critica la industrialización y el progreso tecnológico, argumentando que estos han llevado a la deshumanización y la destrucción del medio ambiente.',
+    pdfUrl: '/books/2_i_3_Theodore_Kaczynski_Manifiesto_de_Unabomber.pdf'
   }
   
 ];
