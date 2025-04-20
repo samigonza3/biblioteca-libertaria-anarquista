@@ -61,6 +61,13 @@ export const books = [
     author: 'Theodore Kaczynski',
     description: 'El manifiesto del Unabomber critica la industrialización y el progreso tecnológico, argumentando que estos han llevado a la deshumanización y la destrucción del medio ambiente.',
     pdfUrl: '/books/2_i_3_Theodore_Kaczynski_Manifiesto_de_Unabomber.pdf'
+  },
+  {
+    id: '10',
+    title: 'Cuadernos de la Cárcel',
+    author: 'Antonio Gramsci',
+    description: 'Obra fundamental del pensamiento marxista del siglo XX, escrita por Antonio Gramsci durante su encarcelamiento por el régimen fascista italiano entre 1929 y 1935. En estos cuadernos, Gramsci desarrolla conceptos clave como hegemonía cultural, bloque histórico, intelectuales orgánicos y revolución pasiva. Son una herramienta crítica para entender las dinámicas de poder, cultura y sociedad desde una perspectiva transformadora.',
+    pdfUrl: '/books/Antonio Gramsci Cuaderno de la Cárcel.pdf'
   }
   
 ];
